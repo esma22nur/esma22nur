@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning .net<br>💬 Ask me about c#<br>📫How to reach me esmanursoysal@hotmail.com
+<br>🌱 I’m currently learning .net<br>🌱 I’m currently learning .net<br>💬 Ask me about c#<br>📫How to reach me esmanursoysal@hotmail.com
 
 
 ## 🌐 Socials:
